@@ -1,0 +1,41 @@
+{
+    "version": "1.0.0",
+    "name": "Harold (Regular)",
+    "assetPath": "characters/harold",
+    "flipX": false,
+    "renderType": "animateatlas",
+    "singTime": 8.0,
+    "healthIcon": {
+      "id": "harold"
+    },
+    "scale": 1,
+    "offsets":[0,0],
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "harold animation idle",
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "harold animation left",
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "harold animation down",
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "harold animation up",
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "harold animation right",
+        "offsets": [0, 0]
+      }
+    ]
+  }
+  
